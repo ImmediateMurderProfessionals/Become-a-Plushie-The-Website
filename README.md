@@ -1,4 +1,4 @@
-Become a Plushie: The Website but how do i make the god damn text big
+# Become a Plushie: The Website
 
 You can become a marketable plushie or buy other marketable plushies!
 
